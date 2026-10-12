@@ -2,7 +2,7 @@
 
 Name:		python-packageurl-python
 Version:	0.17.6
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/packageurl-python/%{oname}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	A purl aka. Package URL parser and builder
 URL:		https://pypi.org/project/packageurl-python/
